@@ -1,0 +1,19 @@
+digraph "类继承关系图"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node38 [label="Fragment",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node38 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="com.example.twitter.bell\lFragment",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1bell_fragment.html"];
+  Node38 -> Node40 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node40 [label="com.example.twitter.fdFragment",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1fd_fragment.html"];
+  Node38 -> Node41 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node41 [label="com.example.twitter.hpFragment",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1hp_fragment.html"];
+  Node38 -> Node42 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node42 [label="com.example.twitter.msgFragment",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1msg_fragment.html"];
+  Node38 -> Node43 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node43 [label="com.example.twitter.rmFragment",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1rm_fragment.html"];
+  Node38 -> Node44 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node44 [label="com.example.twitter.yhFragment",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1yh_fragment.html"];
+}

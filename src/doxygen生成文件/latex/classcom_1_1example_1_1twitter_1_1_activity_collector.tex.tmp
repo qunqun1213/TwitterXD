@@ -1,0 +1,32 @@
+\hypertarget{classcom_1_1example_1_1twitter_1_1_activity_collector}{}\section{com.\+example.\+twitter.\+Activity\+Collector类 参考}
+\label{classcom_1_1example_1_1twitter_1_1_activity_collector}\index{com.\+example.\+twitter.\+Activity\+Collector@{com.\+example.\+twitter.\+Activity\+Collector}}
+
+
+com.\+example.\+twitter.\+Activity\+Collector 的协作图\+:
+% FIG 0
+\subsection*{静态 Public 成员函数}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classcom_1_1example_1_1twitter_1_1_activity_collector_a28f287ff035ec057e81e7be54f432b5b}\label{classcom_1_1example_1_1twitter_1_1_activity_collector_a28f287ff035ec057e81e7be54f432b5b}} 
+static void {\bfseries add\+Activtiy} (Activity activity)
+\item 
+\mbox{\Hypertarget{classcom_1_1example_1_1twitter_1_1_activity_collector_abfb800dfe6a3a75875004d6aeed16347}\label{classcom_1_1example_1_1twitter_1_1_activity_collector_abfb800dfe6a3a75875004d6aeed16347}} 
+static void {\bfseries remove\+Activity} (Activity activity)
+\item 
+\mbox{\Hypertarget{classcom_1_1example_1_1twitter_1_1_activity_collector_a221900157ecf32091287c673775c1eee}\label{classcom_1_1example_1_1twitter_1_1_activity_collector_a221900157ecf32091287c673775c1eee}} 
+static void {\bfseries finish\+All} ()
+\end{DoxyCompactItemize}
+\subsection*{静态 Public 属性}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classcom_1_1example_1_1twitter_1_1_activity_collector_a38443152e73c130c2571b99c20d27211}\label{classcom_1_1example_1_1twitter_1_1_activity_collector_a38443152e73c130c2571b99c20d27211}} 
+static List$<$ Activity $>$ {\bfseries activities} = new Array\+List$<$$>$()
+\end{DoxyCompactItemize}
+
+
+\subsection{详细描述}
+Created by Administrator on 2018年12月14日 0014. 
+
+该类的文档由以下文件生成\+:\begin{DoxyCompactItemize}
+\item 
+F\+:/\+Android/\+Android/\+Twitter/\+Twitter/app/src/main/java/com/example/twitter/Activity\+Collector.\+java\end{DoxyCompactItemize}

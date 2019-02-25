@@ -1,0 +1,7 @@
+digraph "类继承关系图"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="com.example.twitter.Follow\l_in_Adapter.OnITemClickListener",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interfacecom_1_1example_1_1twitter_1_1_follow__in___adapter_1_1_on_i_tem_click_listener.html"];
+}

@@ -1,0 +1,58 @@
+\hypertarget{classcom_1_1example_1_1twitter_1_1_change_image_activity}{}\section{com.\+example.\+twitter.\+Change\+Image\+Activity类 参考}
+\label{classcom_1_1example_1_1twitter_1_1_change_image_activity}\index{com.\+example.\+twitter.\+Change\+Image\+Activity@{com.\+example.\+twitter.\+Change\+Image\+Activity}}
+
+
+类 com.\+example.\+twitter.\+Change\+Image\+Activity 继承关系图\+:
+% FIG 0
+
+
+com.\+example.\+twitter.\+Change\+Image\+Activity 的协作图\+:
+% FIG 1
+\subsection*{Public 成员函数}
+\begin{DoxyCompactItemize}
+\item 
+void \mbox{\hyperlink{classcom_1_1example_1_1twitter_1_1_change_image_activity_a576defc71f577f4867afcf84f93ed3fd}{start\+Small\+Photo\+Zoom}} (Uri uri)
+\item 
+void \mbox{\hyperlink{classcom_1_1example_1_1twitter_1_1_change_image_activity_a575b294447ef1df91b48b8d7d22cf8e1}{start\+Big\+Photo\+Zoom}} (Uri uri)
+\end{DoxyCompactItemize}
+\subsection*{静态 Public 成员函数}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classcom_1_1example_1_1twitter_1_1_change_image_activity_a61abf5356003969df665b63e123fd510}\label{classcom_1_1example_1_1twitter_1_1_change_image_activity_a61abf5356003969df665b63e123fd510}} 
+static void {\bfseries verify\+Storage\+Permissions} (Activity activity)
+\end{DoxyCompactItemize}
+\subsection*{静态 Public 属性}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classcom_1_1example_1_1twitter_1_1_change_image_activity_a1075a412961f4d4b553726c93ef12f56}\label{classcom_1_1example_1_1twitter_1_1_change_image_activity_a1075a412961f4d4b553726c93ef12f56}} 
+static final String {\bfseries web\+Update} = \char`\"{}http\+://192.\+168.\+43.\+228\+:8080/Twitter/updateheadimage.\+jsp\char`\"{}
+\end{DoxyCompactItemize}
+\subsection*{Protected 成员函数}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{classcom_1_1example_1_1twitter_1_1_change_image_activity_af697a81b34db0d3c76c74fe88bdc5206}\label{classcom_1_1example_1_1twitter_1_1_change_image_activity_af697a81b34db0d3c76c74fe88bdc5206}} 
+void {\bfseries on\+Create} (Bundle saved\+Instance\+State)
+\item 
+\mbox{\Hypertarget{classcom_1_1example_1_1twitter_1_1_change_image_activity_ae25cc51f623d534bdbc221a3aeecf53b}\label{classcom_1_1example_1_1twitter_1_1_change_image_activity_ae25cc51f623d534bdbc221a3aeecf53b}} 
+void {\bfseries on\+Activity\+Result} (int request\+Code, int result\+Code, Intent data)
+\end{DoxyCompactItemize}
+
+
+\subsection{成员函数说明}
+\mbox{\Hypertarget{classcom_1_1example_1_1twitter_1_1_change_image_activity_a575b294447ef1df91b48b8d7d22cf8e1}\label{classcom_1_1example_1_1twitter_1_1_change_image_activity_a575b294447ef1df91b48b8d7d22cf8e1}} 
+\index{com\+::example\+::twitter\+::\+Change\+Image\+Activity@{com\+::example\+::twitter\+::\+Change\+Image\+Activity}!start\+Big\+Photo\+Zoom@{start\+Big\+Photo\+Zoom}}
+\index{start\+Big\+Photo\+Zoom@{start\+Big\+Photo\+Zoom}!com\+::example\+::twitter\+::\+Change\+Image\+Activity@{com\+::example\+::twitter\+::\+Change\+Image\+Activity}}
+\subsubsection{\texorpdfstring{start\+Big\+Photo\+Zoom()}{startBigPhotoZoom()}}
+{\footnotesize\ttfamily void com.\+example.\+twitter.\+Change\+Image\+Activity.\+start\+Big\+Photo\+Zoom (\begin{DoxyParamCaption}\item[{Uri}]{uri }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+大图模式切割图片 直接创建一个文件将切割后的图片写入 \mbox{\Hypertarget{classcom_1_1example_1_1twitter_1_1_change_image_activity_a576defc71f577f4867afcf84f93ed3fd}\label{classcom_1_1example_1_1twitter_1_1_change_image_activity_a576defc71f577f4867afcf84f93ed3fd}} 
+\index{com\+::example\+::twitter\+::\+Change\+Image\+Activity@{com\+::example\+::twitter\+::\+Change\+Image\+Activity}!start\+Small\+Photo\+Zoom@{start\+Small\+Photo\+Zoom}}
+\index{start\+Small\+Photo\+Zoom@{start\+Small\+Photo\+Zoom}!com\+::example\+::twitter\+::\+Change\+Image\+Activity@{com\+::example\+::twitter\+::\+Change\+Image\+Activity}}
+\subsubsection{\texorpdfstring{start\+Small\+Photo\+Zoom()}{startSmallPhotoZoom()}}
+{\footnotesize\ttfamily void com.\+example.\+twitter.\+Change\+Image\+Activity.\+start\+Small\+Photo\+Zoom (\begin{DoxyParamCaption}\item[{Uri}]{uri }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [inline]}}
+
+小图模式切割图片 此方式直接返回截图后的 bitmap，由于内存的限制，返回的图片会比较小 
+
+该类的文档由以下文件生成\+:\begin{DoxyCompactItemize}
+\item 
+F\+:/\+Android/\+Android/\+Twitter/\+Twitter/app/src/main/java/com/example/twitter/Change\+Image\+Activity.\+java\end{DoxyCompactItemize}

@@ -1,0 +1,23 @@
+digraph "类继承关系图"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node20 [label="Adapter",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node20 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="com.example.twitter.AllAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_all_adapter.html"];
+  Node20 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="com.example.twitter.CmtAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_cmt_adapter.html"];
+  Node20 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="com.example.twitter.fAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1f_adapter.html"];
+  Node20 -> Node24 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="com.example.twitter.fdAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1fd_adapter.html"];
+  Node20 -> Node25 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node25 [label="com.example.twitter.Follow\l_in_Adapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_follow__in___adapter.html"];
+  Node20 -> Node26 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node26 [label="com.example.twitter.Other\lAllAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_other_all_adapter.html"];
+  Node20 -> Node27 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node27 [label="com.example.twitter.Tongzhi\lAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_tongzhi_adapter.html"];
+  Node20 -> Node28 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node28 [label="com.example.twitter.TopAdapter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_top_adapter.html"];
+}

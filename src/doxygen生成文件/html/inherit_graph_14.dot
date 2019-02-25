@@ -1,0 +1,36 @@
+digraph "类继承关系图"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node45 [label="AppCompatActivity",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node45 -> Node46 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node46 [label="com.example.twitter.AddTwitter\lActivity",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_add_twitter_activity.html"];
+  Node45 -> Node47 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node47 [label="com.example.twitter.Change\lImageActivity",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_change_image_activity.html"];
+  Node45 -> Node48 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node48 [label="com.example.twitter.ChangeUser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_change_user.html"];
+  Node45 -> Node49 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node49 [label="com.example.twitter.Click",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_click.html"];
+  Node45 -> Node50 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node50 [label="com.example.twitter.FanPage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_fan_page.html"];
+  Node45 -> Node51 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node51 [label="com.example.twitter.FollowPage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_follow_page.html"];
+  Node45 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="com.example.twitter.Homepage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_homepage.html"];
+  Node45 -> Node52 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node52 [label="com.example.twitter.Login",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_login.html"];
+  Node45 -> Node53 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node53 [label="com.example.twitter.Main\lActivity",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_main_activity.html"];
+  Node45 -> Node54 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node54 [label="com.example.twitter.Other\l_Homepage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_other___homepage.html"];
+  Node45 -> Node55 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node55 [label="com.example.twitter.Register",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_register.html"];
+  Node45 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="com.example.twitter.search\lActivity",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1search_activity.html"];
+  Node45 -> Node56 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node56 [label="com.example.twitter.User\lArticle",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_user_article.html"];
+  Node12 [label="OnClickListener",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node12 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,20 @@
+digraph "com.example.twitter.AddTwitterActivity"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node2 [label="com.example.twitter.AddTwitter\lActivity",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AppCompatActivity",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pic\nsend\ncancel" ,fontname="Helvetica"];
+  Node4 [label="Button",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" content" ,fontname="Helvetica"];
+  Node5 [label="EditText",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" file" ,fontname="Helvetica"];
+  Node6 [label="File",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node7 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mPhotoPopupWindow" ,fontname="Helvetica"];
+  Node7 [label="com.example.twitter.Photo\lPopUpWindow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classcom_1_1example_1_1twitter_1_1_photo_pop_up_window.html"];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="PopupWindow",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" toolbarName" ,fontname="Helvetica"];
+  Node9 [label="TextView",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

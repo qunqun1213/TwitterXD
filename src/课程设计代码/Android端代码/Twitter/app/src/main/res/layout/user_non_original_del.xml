@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#ffffff"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingTop="15dp">
+
+        <com.example.twitter.RoundImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+
+            android:id="@+id/headimage3"
+            app:borderRadius="50dp"
+            app:type="round" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/name3"
+                android:text="苍井翔太3"
+                android:textColor="#000000"
+                android:textSize="15sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  @"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/idnumber3"
+                android:textColor="#a5a1a1"
+                android:text="shout0811aaoi"
+                android:textSize="15sp"/>
+
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:id="@+id/ttime3"
+            android:textColor="#a5a1a1"
+            android:text="5时"
+            android:textSize="15sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/content3"
+            android:paddingBottom="10dp"
+            android:textColor="#000000"
+            android:textSize="14sp"
+            android:maxLines="1"
+            android:maxEms="150"
+            android:ellipsize="end"
+            android:text="おはよー1"/>
+
+        <!--转发内容-->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/square"
+            android:id="@+id/content_del"
+            android:text="原文已被删除"
+            android:layout_gravity="center_vertical"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:textSize="15sp"/>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="50"
+                android:textSize="16sp"
+                android:textColor="#000000"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="5dp"
+                android:drawableLeft="@drawable/pin"
+                android:background="@drawable/pinnum"
+                android:id="@+id/btn_cmt3"
+                android:button = "@null" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="50"
+                android:textSize="16sp"
+                android:textColor="#000000"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="5dp"
+                android:drawableLeft="@drawable/zhuan"
+                android:background="@drawable/pinnum"
+                android:id="@+id/btn_zhuan3"
+                android:button = "@null" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="50"
+                android:textSize="16sp"
+                android:textColor="#000000"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingRight="5dp"
+                android:paddingBottom="5dp"
+                android:drawableLeft="@drawable/zan"
+                android:background="@drawable/pinnum"
+                android:id="@+id/btn_zan3"
+                android:button = "@null" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,481 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="命名空间"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="命名空间列表"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="example"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="twitter"><param name="Local" value="namespacecom_1_1example_1_1twitter.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="test"><param name="Local" value="namespacecom_1_1example_1_1twitter_1_1test.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="类"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类列表"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="android"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="support"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="design"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="R"><param name="Local" value="classandroid_1_1support_1_1design_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="test"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="espresso"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="R"><param name="Local" value="classandroid_1_1support_1_1test_1_1espresso_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="rule"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="R"><param name="Local" value="classandroid_1_1support_1_1test_1_1rule_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="transition"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="R"><param name="Local" value="classandroid_1_1support_1_1transition_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="v7"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="appcompat"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="R"><param name="Local" value="classandroid_1_1support_1_1v7_1_1appcompat_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="recyclerview"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="R"><param name="Local" value="classandroid_1_1support_1_1v7_1_1recyclerview_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="example"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="twitter"><param name="Local" value="namespacecom_1_1example_1_1twitter.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="test"><param name="Local" value="namespacecom_1_1example_1_1twitter_1_1test.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="BuildConfig"><param name="Local" value="classcom_1_1example_1_1twitter_1_1test_1_1_build_config.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="R"><param name="Local" value="classcom_1_1example_1_1twitter_1_1test_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ActivityCollector"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_activity_collector.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddTwitterActivity"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_add_twitter_activity.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onActivityResult"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_add_twitter_activity.html#a7a74dfa200d6c1c516b201a5c1fa533a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_add_twitter_activity.html#acc444035001459f73eb8ef94caae0213"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="startSmallPhotoZoom"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_add_twitter_activity.html#a374b108c7a9984fc3a6f77ff78437c40"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AllAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_all_adapter.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AllAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_all_adapter.html#a09fa59374d29e4d4de648c5788e65273"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AllAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_all_adapter.html#aad86cd2c3a79834463a3179b5582086c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemCount"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_all_adapter.html#af661754290d5d9d51f263dc0634ab627"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemId"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_all_adapter.html#aa5766970d05f4143eff7e165f067396a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemViewType"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_all_adapter.html#a55e7d55ff1b270000b5dabd51672a1a3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onBindViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_all_adapter.html#aea893abefedfccc0d6bf726c3ac2263a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_all_adapter.html#a001d6771db4b45d6a33974e1c2d2485c"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AutoTextView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_auto_text_view.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AutoTextView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_auto_text_view.html#a86137622d33a59fac94a479110eea5dc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AutoTextView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_auto_text_view.html#a37a9a39abafdaadf52d6baabb7ac7555"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AutoTextView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_auto_text_view.html#aacedbe9b3250af3a277e4f803920eb9a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getLineCount"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_auto_text_view.html#a150730774458d3fb186d2fd3af2c00f6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onDraw"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_auto_text_view.html#a1405881df4e30d4be71298fbbd5455f4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onMeasure"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_auto_text_view.html#a4d4068da16e594801d42ee7569fdfc77"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onTextChanged"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_auto_text_view.html#a1d07ef79d77bfa14ca4cdfb04cb5caad"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setMaxLines"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_auto_text_view.html#a4857691029f5c5a0a123d4e1100cc3b1"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="bellFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1bell_fragment.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onAttach"><param name="Local" value="classcom_1_1example_1_1twitter_1_1bell_fragment.html#a44dfe9085778b9833bb39c7cd10bf61f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1bell_fragment.html#a5670db547d67347c2f2a8bc901461af0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="mRecycleView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1bell_fragment.html#a481d7dfea94709345a87ebc82c101caf"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BuildConfig"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_build_config.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ChangeImageActivity"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_change_image_activity.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onActivityResult"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_change_image_activity.html#ae25cc51f623d534bdbc221a3aeecf53b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_change_image_activity.html#af697a81b34db0d3c76c74fe88bdc5206"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="startBigPhotoZoom"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_change_image_activity.html#a575b294447ef1df91b48b8d7d22cf8e1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="startSmallPhotoZoom"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_change_image_activity.html#a576defc71f577f4867afcf84f93ed3fd"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ChangeUser"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_change_user.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="jsonobject"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_change_user.html#a9e52433e4d924871efbe16a81cc03c92"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_change_user.html#ab8633d33efbf29756d60a5254342f8e0"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Click"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_click.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_click.html#a9a134fa4b90a8c97682c4ace846656c9"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CmtAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_cmt_adapter.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CmtAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_cmt_adapter.html#a9356d0cf121d0a1fca4d17efebf6de49"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CmtAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_cmt_adapter.html#ac095c589e92c4f204a39a57d4ceba37d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemCount"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_cmt_adapter.html#ac179304e7ca91f5c02ef622da9424de2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemId"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_cmt_adapter.html#aa0751b0b75c42e78c740d1668359e296"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemViewType"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_cmt_adapter.html#a465a525035b5279c5aac3bf4f3036f51"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onBindViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_cmt_adapter.html#ae868e66528ae413e688c9c835e472d60"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_cmt_adapter.html#a146263cf4abeb7e3110a124b6df09489"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ExampleInstrumentedTest"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_example_instrumented_test.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="useAppContext"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_example_instrumented_test.html#a7a7453a00429c19e6526394bfa11f701"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ExampleUnitTest"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_example_unit_test.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="addition_isCorrect"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_example_unit_test.html#af03c38f7d73567118abe6616bf39ff3b"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="fAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1f_adapter.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="fAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1f_adapter.html#a9540f9f1546eb7542622a1ef75fd63e4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="fAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1f_adapter.html#acc72311c9415d93af1b64ee59e223c84"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemCount"><param name="Local" value="classcom_1_1example_1_1twitter_1_1f_adapter.html#ab93fb7fc944d90d7198eff15dd0bcd82"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemId"><param name="Local" value="classcom_1_1example_1_1twitter_1_1f_adapter.html#a06154b0de6ca248d0790e0d7a42ec9c6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemViewType"><param name="Local" value="classcom_1_1example_1_1twitter_1_1f_adapter.html#a22e4907a4cb7418cab0d6a7108b214fe"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onBindViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1f_adapter.html#ac0120b9e8ef16bdf543a8d8e8172d26c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1f_adapter.html#a7fda6eeb24b8047028012e96f0a5795b"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FanPage"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_fan_page.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="fanobject"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_fan_page.html#a6cd7914bfd1cc3964794e0268098407a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_fan_page.html#a2965d250527f85a8be36c385ef44b7e9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="mRecycleView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_fan_page.html#acf43807490892daf8387d738e2376a00"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="fdAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_adapter.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="fdAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_adapter.html#afa3bc2952f946d5f50caf6fac486a840"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="fdAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_adapter.html#ac3197e8c8c3ecdfdc78cc0a409156e9d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemCount"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_adapter.html#a283ab569921448a1bacc2daffe7852ef"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemId"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_adapter.html#a3f166739a670e893b3e80144faad7bc1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemViewType"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_adapter.html#a4d4a9064dd8bf0c032647ad6ad0fa1b0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onBindViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_adapter.html#a37e093433f61f4e2e9ae7989037fe833"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_adapter.html#a90fc82f23450a8c98efe525d503d7970"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="fdFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_fragment.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onActivityCreated"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_fragment.html#a9bf5024a78738411b4ad0cd8b449cd74"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onAttach"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_fragment.html#ab20a1861b37aa916cfe34c66366edbb9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateOptionsMenu"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_fragment.html#a6b834434e61442ba8c3f5b2f4a2a73f7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_fragment.html#af98296f35da922cbc0e5b0064e868346"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onOptionsItemSelected"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_fragment.html#a55600e9303a7687c118b79318dedd527"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="mView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_fragment.html#aaa9356c1a5b2951e09ae96adac645b87"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Follow_in_Adapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow__in___adapter.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnITemClickListener"><param name="Local" value="interfacecom_1_1example_1_1twitter_1_1_follow__in___adapter_1_1_on_i_tem_click_listener.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="OnItemClick"><param name="Local" value="interfacecom_1_1example_1_1twitter_1_1_follow__in___adapter_1_1_on_i_tem_click_listener.html#a11d25273ee68b8f7a4641dd466bddc36"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Follow_in_Adapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow__in___adapter.html#af33f1c5153bca9afbdabf5337c871009"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemCount"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow__in___adapter.html#ab0feb33c398d954c3e95ebcb6f5523f2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemViewType"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow__in___adapter.html#afe3fcfbbea1d6642df118fbb15ae55e4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onBindViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow__in___adapter.html#af4158604761b53400eb0d467bfcab14d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow__in___adapter.html#af0f0423f941215ea50877b6a749c075f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setOnITemClickListener"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow__in___adapter.html#a061a3b705f7eb9410d079e47982380fc"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowPage"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow_page.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="followobject"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow_page.html#a76abac096f905cfa9001992ef08f2683"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow_page.html#a88dd9c16415738d8595652f7a9ace7fa"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="mRecycleView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow_page.html#aefb5ea35076578e9da1b97a7f19c15a0"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Homepage"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_homepage.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_headimg"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_homepage.html#a816331141a5e04b05cf5f16479714098"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_idnumber"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_homepage.html#a11155463064dbb58f34c2daf537bea09"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_name"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_homepage.html#aeb7710cd15537ecb1428324bc89797d3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getFan"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_homepage.html#ab07a1f62c1f700daf5001c12d31f0eb0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getFollow"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_homepage.html#a5744730693b63e378907fb8f7c0e36a4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onClick"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_homepage.html#a349f4f0bc26bfcc86865e78b9b22a254"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_homepage.html#a74073ffa6366b3c331781a74341a2e3a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onKeyDown"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_homepage.html#a0631a204d5486d2969727cf8ba4c33fb"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="hpFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1hp_fragment.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onAttach"><param name="Local" value="classcom_1_1example_1_1twitter_1_1hp_fragment.html#ad34d82a5d724090be3d412dbc6e594d7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1hp_fragment.html#a70a678cff86e791e477258b57ef25bb2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="mCollectRecyclerView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1hp_fragment.html#a8f50d2f9403e1d9f6bfab8aeb6d37358"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Info"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Info"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a17ef6d3900dd9c5005f8d294a09c8413"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Info"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a4d9c06169a3f1f1829436bb6d3a11a6a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Info"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#ae3e87fa7e176f7318f0351ee71a16edc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Info"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a6cb59c0c724443b00f019606698f8f51"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_content"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a340e1ab69885db5bacc00049d152d6c3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_content2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a1514cefbe7557a0fd64194078bd98c9c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_ctm"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a38132158cba541e105f7ee3e56532408"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_idnumber"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a5e83be2cb4d1c58382edc9434c45207d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_idnumber2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a66e5055d86ecd2a4088b5b9e1ab322d9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_imghead"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#ac124fd0f9a97205fdd2ab7735c22db34"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_lk"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a9b4aab9da6c11ae691a4d0ac2597b1ea"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_name"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a35d65e1d67a4dbbc09833d72b1ab100f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_name2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a2f51932a42a68486a1037b017dd326fb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_tn"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a82b10024003bb950aae0b289e304b410"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_wordTime"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a75570ad32af70cfa577b498e129a2412"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_wordTime2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a7cd2391cb1f7334373b6d5e6c51a8437"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getArticleId"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a50726fbe7277e3df57b109aa3f10a76b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getFan"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a94890a38bf6b0ce246b1500bdefdbb0d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getFollow"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#ada2a13e74f39381e6da267b5eeffda58"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getPic"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a0cc0dfba9b78715358667b4861eb9075"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getType"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a857964fffd274166a964879597484e6c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_content"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a76c127c073adaf44068101f9bc69af71"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_content2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a21ea0103e35227010a05552cfe4cb8eb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_ctm"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a5782b0546f5b6deeb19754be53fc2263"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_idnumber"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a4522254057bbf5c91dbf8ac242386c7d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_idnumber2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a5238730f7cfe3ee3e551c34a7b3f4bd0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_imghead"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a44a11816943c9e69eff6c72cd6df634f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_lk"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a6686bedb9ed87df13716a1b0af1a6e1f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_name"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a00813c8e9c0c6e2dbdf971f36b752855"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_name2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a7d6e30235da66ebbde73133a36e7cdae"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_tn"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#ae157421b590ddd452e04392614307d86"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_wordTime"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a6a7964d8d3cbd1005cafb4788fd55f80"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="set_wordTime2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a2f2f1045f0f54169d6dfffd445fbe9b1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setArticleId"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a3e7b0b8e6d279697cd18e402cf18ee9c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setFan"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#acf694977f04b1eb60a344cbcd42ed59c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setFollow"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a439760f58ae048508ee64b0af56ee74c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setPic"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#ae33a2771cf3f5f3d60f455c002c9548e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setType"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#af387464cf02b9b157fa998b5f2806ef5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_content"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a53fd3b5964b72fb60cd47c7b9304392e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_content2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#ab49b56dfdf93806b2c819fafbb445fb2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_ctm"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#ac4527adbd097323ba336edb18bb130b5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_idnumber"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a180e1dd4dbb586360a06d918f3c63c5f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_idnumber2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a0cd6f831121aade3480d89157937525e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_imghead"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a304ca2fa8021532b90f6f0df9666ac8c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_lk"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a1b69489bfb9a8fe55c684d12929dc791"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_name"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a5d56aec8823b614994a4bd4c8edc3887"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_name2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#aad2159592227deeeb5eb27699a42b5a0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_tn"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a437df6d231eb59c845c095975bd2ee32"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_wordTime"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a0e886bb6446547c131771262ef90b5ba"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_wordTime2"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a0431d3cf4a47f5277de1872ff288739d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="articleId"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a7010f62fe1f84a81b81a4c013de11554"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="fan"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#acfb9addd968d571b92f4a080258b9b5a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="follow"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#a54d64681c27583f0da9e5058a7e91bad"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="pic"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#af38c49baadc83342f0176e559f8974b4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="type"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html#abf3cb26b53c3c124d703a2281441db9f"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Login"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_login.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_login.html#a4b837cb49b55993a066b1202bae1386b"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MainActivity"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_main_activity.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_main_activity.html#ab8d9c0a6cfaae62968f94b931ddc8ef2"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="msgFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1msg_fragment.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onActivityResult"><param name="Local" value="classcom_1_1example_1_1twitter_1_1msg_fragment.html#ab8b152a251f25da7eccd892671bf9432"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onAttach"><param name="Local" value="classcom_1_1example_1_1twitter_1_1msg_fragment.html#a830ca1a2afb6a0f406f4b4dbde52ca9f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1msg_fragment.html#a58388ef74e3c3ba214d06b13b90f4000"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="mCollectRecyclerView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1msg_fragment.html#af7c611ff109bc4a30d7e7d1b308e4345"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MyPagerAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_my_pager_adapter.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="MyPagerAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_my_pager_adapter.html#ad6c5205bdd8d4dabe34080c7225af524"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="destroyItem"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_my_pager_adapter.html#a3a91d460b08d4216457e7f777fa45e13"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getCount"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_my_pager_adapter.html#a67d9ce4c74903f6507f4e889c6651dd8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItem"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_my_pager_adapter.html#acfe13b498be2917e4931674db7622b7d"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Other_Homepage"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other___homepage.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other___homepage.html#a0426634d9720783468fdc13f49ec6c98"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="mCollectRecyclerView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other___homepage.html#adca2a2b372a9e60a059fc9963187d958"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OtherAllAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other_all_adapter.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OtherAllAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other_all_adapter.html#a57cae2454715ae0288168c4fd7ad9828"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OtherAllAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other_all_adapter.html#abdf43d9e08776176e96d706b1d3e5f4c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemCount"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other_all_adapter.html#ab8e3f95fd0dae545dc27a303bf10a394"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemId"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other_all_adapter.html#ad47d13c349ace6c152e7fd55cb66a4c7"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemViewType"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other_all_adapter.html#a4c98160d19c39120f64792bf9a664f77"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onBindViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other_all_adapter.html#ac4c7488050b7410fb6917fc3ec88e0c0"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other_all_adapter.html#a5826521bb7d908a8893bbb372b884281"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PhotoPopUpWindow"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_photo_pop_up_window.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="PhotoPopUpWindow"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_photo_pop_up_window.html#afa479daf75c513698e9a0f45cb152f76"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="R"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Register"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_register.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_register.html#a5c4ae8b20c0d33a01db0dd4d0f1ee48f"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="rmFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1rm_fragment.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onAttach"><param name="Local" value="classcom_1_1example_1_1twitter_1_1rm_fragment.html#a51902532922cd20ed1c58731ac4bdae3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1rm_fragment.html#abce83f3cc2eba74644871fd643d515d9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="mCollectRecyclerView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1rm_fragment.html#a130c8d6910a4939dc42a22fdc58fe678"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RoundImageView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_round_image_view.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="RoundImageView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_round_image_view.html#a5ee323a8e6c2291ebaf3a75074cce27e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="dp2px"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_round_image_view.html#a3db1023c3dced8e0092953f4d20cb22b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onDraw"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_round_image_view.html#a5dfe6f262a1e16eb669fa7c37c99d5c2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onMeasure"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_round_image_view.html#ac2cc66398b656c8add4ce983d95fd4ef"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onRestoreInstanceState"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_round_image_view.html#ab5ae026debaeb9357fe453b17db4d755"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onSaveInstanceState"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_round_image_view.html#aa6c65fcc8cf7b89ac37aae841848396c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onSizeChanged"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_round_image_view.html#a41021daf584df7583ea649d55014cf1d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setBorderRadius"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_round_image_view.html#af370a3354ac15b1d72fcff74c14c3e12"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setType"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_round_image_view.html#ac6717874e63b270b4b8ef0e89fec4e51"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="searchActivity"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_headimg"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html#ab37f89cb86aa0645d9b8d0e0bfbd0624"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_idnumber"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html#ad91cbe31d2501fea137acf170934fa35"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="get_name"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html#ad454022b7c768e399641b6ef642bcc30"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getFan"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html#afb4ae61f36ac0702146ede079f6fea1b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getFollow"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html#a2fc1d28e9931ea6cd8b3dc5183d93138"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getSearchText"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html#ac8d1db8f10c0bcd7f7ec1bc9d3691085"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onClick"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html#a44447bd5959713775b9f5682e01a6db9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html#aca8163624b7db3753ff533fcf3795659"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onPause"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html#a11a6b46f5715f3cf42d861d7f97b3552"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TongzhiAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_tongzhi_adapter.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnITemClickListener"><param name="Local" value="interfacecom_1_1example_1_1twitter_1_1_tongzhi_adapter_1_1_on_i_tem_click_listener.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="OnItemClick"><param name="Local" value="interfacecom_1_1example_1_1twitter_1_1_tongzhi_adapter_1_1_on_i_tem_click_listener.html#a3501a888480dc913a06c304f99ba3b6c"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="TongzhiAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_tongzhi_adapter.html#ab21d49787eca5a1dc8b52724475f39ff"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemCount"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_tongzhi_adapter.html#a461f1e93bcb29b8a97fa3acffe52c959"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onBindViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_tongzhi_adapter.html#a3922bd9868dba1654ae1b01064cf9830"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_tongzhi_adapter.html#a27f962280b61a7b2e67ab90a441fbdfe"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="setOnITemClickListener"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_tongzhi_adapter.html#a9936ad2a533a8fa086d28d268c6a8502"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TopAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_top_adapter.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="TopAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_top_adapter.html#a9c4368180dd169a35a7887fc9908d351"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="getItemCount"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_top_adapter.html#a21dc90f20424d4e16cd373db5d45d0c8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onBindViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_top_adapter.html#aebd487d358de893159101d5b10b17b27"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateViewHolder"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_top_adapter.html#a7e16bf0a3d9c215493e38b50d0c6f5c5"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="UserArticle"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_user_article.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreate"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_user_article.html#a855d1cbf41f1594d53f3c90720045c23"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="mView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_user_article.html#a8448f89d9d65561442160da7604212fc"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="yhFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1yh_fragment.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onAttach"><param name="Local" value="classcom_1_1example_1_1twitter_1_1yh_fragment.html#a4d354543fee1e182299cab3fd2f09b6e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="onCreateView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1yh_fragment.html#a848bcc6ece0c33dacb14596442607255"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="mCollectRecyclerView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1yh_fragment.html#a7b79d1dc87746ecc1477853278c44c88"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="nex3z"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="flowlayout"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="R"><param name="Local" value="classcom_1_1nex3z_1_1flowlayout_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类索引"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类继承关系"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.ActivityCollector"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_activity_collector.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Adapter"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.AllAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_all_adapter.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.CmtAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_cmt_adapter.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.fAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1f_adapter.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.fdAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_adapter.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.Follow_in_Adapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow__in___adapter.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.OtherAllAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other_all_adapter.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.TongzhiAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_tongzhi_adapter.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.TopAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_top_adapter.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.BuildConfig"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_build_config.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.test.BuildConfig"><param name="Local" value="classcom_1_1example_1_1twitter_1_1test_1_1_build_config.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.ExampleInstrumentedTest"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_example_instrumented_test.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.ExampleUnitTest"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_example_unit_test.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.Info"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_info.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="OnClickListener"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.Homepage"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_homepage.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.searchActivity"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.Follow_in_Adapter.OnITemClickListener"><param name="Local" value="interfacecom_1_1example_1_1twitter_1_1_follow__in___adapter_1_1_on_i_tem_click_listener.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.TongzhiAdapter.OnITemClickListener"><param name="Local" value="interfacecom_1_1example_1_1twitter_1_1_tongzhi_adapter_1_1_on_i_tem_click_listener.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="android.support.v7.appcompat.R"><param name="Local" value="classandroid_1_1support_1_1v7_1_1appcompat_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="android.support.v7.recyclerview.R"><param name="Local" value="classandroid_1_1support_1_1v7_1_1recyclerview_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="android.support.design.R"><param name="Local" value="classandroid_1_1support_1_1design_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="android.support.test.rule.R"><param name="Local" value="classandroid_1_1support_1_1test_1_1rule_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.R"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.test.R"><param name="Local" value="classcom_1_1example_1_1twitter_1_1test_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="android.support.transition.R"><param name="Local" value="classandroid_1_1support_1_1transition_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="android.support.test.espresso.R"><param name="Local" value="classandroid_1_1support_1_1test_1_1espresso_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="com.nex3z.flowlayout.R"><param name="Local" value="classcom_1_1nex3z_1_1flowlayout_1_1_r.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AppCompatActivity"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.AddTwitterActivity"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_add_twitter_activity.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.ChangeImageActivity"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_change_image_activity.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.ChangeUser"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_change_user.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.Click"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_click.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.FanPage"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_fan_page.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.FollowPage"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_follow_page.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.Homepage"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_homepage.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.Login"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_login.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.MainActivity"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_main_activity.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.Other_Homepage"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_other___homepage.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.Register"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_register.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.searchActivity"><param name="Local" value="classcom_1_1example_1_1twitter_1_1search_activity.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.UserArticle"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_user_article.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Fragment"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.bellFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1bell_fragment.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.fdFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1fd_fragment.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.hpFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1hp_fragment.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.msgFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1msg_fragment.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.rmFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1rm_fragment.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.yhFragment"><param name="Local" value="classcom_1_1example_1_1twitter_1_1yh_fragment.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="FragmentPagerAdapter"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.MyPagerAdapter"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_my_pager_adapter.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ImageView"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.RoundImageView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_round_image_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="PopupWindow"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.PhotoPopUpWindow"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_photo_pop_up_window.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TextView"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="com.example.twitter.AutoTextView"><param name="Local" value="classcom_1_1example_1_1twitter_1_1_auto_text_view.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="类成员"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="全部"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="函数"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>

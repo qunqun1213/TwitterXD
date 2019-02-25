@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:orientation="vertical">
+        <com.example.twitter.RoundImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:id="@+id/headimage1"
+            app:borderRadius="50dp"
+            app:type="round" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="来自  "
+                android:textColor="#000000"
+                android:textSize="15sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/name1"
+                android:text="苍井翔太"
+                android:textColor="#000000"
+                android:textSize="17sp"/>
+            <!--是近期推文还是提及-->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/jinti"
+                android:textColor="#000000"
+                android:text="  的近期推文"
+                android:textSize="15sp"/>
+
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/content1"
+            android:textColor="#a5a1a1"
+            android:textSize="14sp"
+            android:maxLines="4"
+            android:text="おはよー"/>
+    </LinearLayout>
+</LinearLayout>

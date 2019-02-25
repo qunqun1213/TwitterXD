@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.example.twitter.RoundImageView
+            android:id="@+id/headimagem"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/star"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/namem"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="8th-Cicada"
+                android:textSize="15sp"
+                android:textColor="#000000"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="简介:"/>
+                <TextView
+                    android:id="@+id/introduction"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="[ラボメン]"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+    <RadioGroup
+        android:id="@+id/rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:id="@+id/twi"
+            android:checked="true"
+            android:text="推文"
+            android:background="#ffffff"/>
+
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:id="@+id/follow"
+            android:checked="true"
+            android:text="关注"
+            android:background="#ffffff" />
+
+        <RadioButton
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:id="@+id/fan"
+            android:gravity="center"
+            android:checked="true"
+            android:text="粉丝"
+            android:background="#ffffff" />
+
+    </RadioGroup>
+    <android.support.v4.widget.SwipeRefreshLayout
+    android:id="@+id/msgsrl"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list_hppage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></android.support.v7.widget.RecyclerView>
+    </android.support.v4.widget.SwipeRefreshLayout>
+</LinearLayout>

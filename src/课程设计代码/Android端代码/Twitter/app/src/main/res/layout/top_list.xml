@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:test="http://schemas.android.com/apk/rs/com.example.twitter"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        android:orientation="horizontal">
+
+
+    <LinearLayout
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingLeft="22dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/top_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="15sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  @"/>
+
+            <TextView
+            android:id="@+id/top_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="juju "
+            android:textSize="15sp"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/top_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2018.12.18"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:id="@+id/top_content"
+            android:layout_width="215dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:maxLines="3"
+            android:maxEms="150"
+            android:ellipsize="end"
+            android:text="xx"
+            android:textStyle="bold"
+            android:textColor="@android:color/black"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp">
+
+    <ImageView
+        android:id="@+id/top_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="right"
+        android:background="@drawable/tx4"
+         />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

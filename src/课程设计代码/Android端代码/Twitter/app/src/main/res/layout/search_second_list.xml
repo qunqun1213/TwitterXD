@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <android.support.v7.widget.SearchView
+        android:id="@+id/searchview_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:iconifiedByDefault="false"
+        app:queryHint="请输入搜索内容" />
+
+
+
+    <RadioGroup
+        android:id="@+id/search_rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+
+        <RadioButton
+            android:id="@+id/rb_rm"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:checked="true"
+            android:background="@drawable/rmclick"/>
+
+        <RadioButton
+            android:id="@+id/rb_yh"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/yhunclick"
+            android:gravity="center"
+
+            android:button="@null" />
+
+    </RadioGroup>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager_s"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8">
+
+
+    </android.support.v4.view.ViewPager>
+
+
+</LinearLayout>

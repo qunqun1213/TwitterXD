@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:paddingLeft="30dp"
+        android:paddingTop="5dp">
+
+        <com.example.twitter.RoundImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/headimage_cmt"
+            android:background="@drawable/tx3"
+            app:borderRadius="50dp"
+            app:type="round" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/name_cmt"
+                android:text="居居"
+                android:textColor="#000000"
+                android:textSize="15sp"/>
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:id="@+id/idnumber_cmt"
+                android:textColor="#a5a1a1"
+                android:text="shout0811aaoi"
+                android:textSize="15sp"/>
+
+        </LinearLayout>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:id="@+id/ttime_cmt"
+            android:textColor="#a5a1a1"
+            android:text="5时"
+            android:textSize="15sp"/>
+
+        <com.example.twitter.AutoTextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/content_cmt"
+            android:textColor="#000000"
+            android:textSize="14sp"
+            android:text="くさくさくさ"/>
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,1 @@
+include ':app', ':calendarview', ':demo', ':ballview', ':camera', ':demo2'
